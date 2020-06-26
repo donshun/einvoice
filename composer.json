@@ -1,5 +1,5 @@
 {
-    "name": "pichuchen/einvoice",
+    "name": "donshun/einvoice",
     "type": "library",
     "description": "Taiwan E-invoice PHP SDK",
     "keywords":["einvoice","E-Invoice","Taiwan","g0v.tw"],
